@@ -1,5 +1,9 @@
 package Panel;
 
+import Objectos_Juego.Tablero;
+import Objectos_Juego.Tiempo;
+import Objectos_Juego.Personaje;
+import Objectos_Juego.Objectivo;
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
